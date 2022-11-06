@@ -1,2 +1,7 @@
-# patika_kodluyoruz_yemektarifi
-Yemek Tarifi
+# Deneme
+
+## Alt Bilgi
+adasdasdad asd asd asd
+asdad asd 
+
+[lorem ipsum](http://google.com)
